@@ -35,3 +35,54 @@
 2026-08-10 04:27:48.030: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-08-10 04:27:48.030: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-10 04:27:48.030: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 05:58:48.885: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 10:47:56.898: [INFO] CurrentProfilePath: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 10:47:56.898: [INFO] Profiles total count: 1
+2026-08-10 10:47:56.899: [INFO] Profile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-10T05:17:42.460Z
+2026-08-10 10:47:56.899: [INFO] LastUsedProfileDir: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 10:47:56.899: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-10T05:17:42.460Z
+2026-08-10 10:47:56.899: [INFO] OnDoneLoading sync enabled: 0
+2026-08-10 10:47:56.899: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-10 10:47:56.899: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-10 10:47:56.899: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 10:48:45.186: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 11:41:21.492: [INFO] CurrentProfilePath: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 11:41:21.492: [INFO] Profiles total count: 1
+2026-08-10 11:41:21.493: [INFO] Profile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-10T10:48:42.901Z
+2026-08-10 11:41:21.493: [INFO] LastUsedProfileDir: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-10 11:41:21.493: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-10T10:48:42.901Z
+2026-08-10 11:41:21.493: [INFO] OnDoneLoading sync enabled: 0
+2026-08-10 11:41:21.493: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-10 11:41:21.493: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-10 11:41:21.493: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-10 12:02:27.546: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 02:45:12.714: [INFO] CurrentProfilePath: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 02:45:12.714: [INFO] Profiles total count: 1
+2026-08-11 02:45:12.714: [INFO] Profile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-10T11:47:43.549Z
+2026-08-11 02:45:12.714: [INFO] LastUsedProfileDir: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-11 02:45:12.715: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-10T11:47:43.549Z
+2026-08-11 02:45:12.715: [INFO] OnDoneLoading sync enabled: 0
+2026-08-11 02:45:12.715: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-11 02:45:12.715: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-11 02:45:12.715: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-11 02:52:32.008: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 11:55:29.067: [INFO] CurrentProfilePath: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 11:55:29.067: [INFO] Profiles total count: 1
+2026-08-17 11:55:29.068: [INFO] Profile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T02:47:09.611Z
+2026-08-17 11:55:29.068: [INFO] LastUsedProfileDir: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-17 11:55:29.068: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-11T02:47:09.611Z
+2026-08-17 11:55:29.068: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 11:55:29.068: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 11:55:29.068: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 11:55:29.068: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 12:12:50.971: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 02:22:06.416: [INFO] CurrentProfilePath: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 02:22:06.416: [INFO] Profiles total count: 1
+2026-08-20 02:22:06.417: [INFO] Profile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T11:55:35.925Z
+2026-08-20 02:22:06.417: [INFO] LastUsedProfileDir: C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-20 02:22:06.417: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\MY COMPUTER\Documents\GitHub\25th2525-JavaProgramming\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-17T11:55:35.925Z
+2026-08-20 02:22:06.417: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 02:22:06.417: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 02:22:06.417: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 02:22:06.417: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 02:30:48.694: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
